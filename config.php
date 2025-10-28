@@ -7,4 +7,4 @@ define("BASE_PATH", __DIR__);
 define("HOST", "localhost");
 define("USER", "root");
 define("PASS", "");
-define("DBNAME", "db_name");
+define("DBNAME", "news");
